@@ -1,0 +1,33 @@
+.content-info p{
+    font-family: 'Noto Sans', 'Noto Sans KR';
+    font-size: 1.7em;
+    line-height: 1.5em !important;
+    color: #3c484e;
+}
+.text-introduce {
+   padding: 40px 100px 0;
+   line-height: 1.6em;
+}
+.text-introduce>ul {
+    margin: 24px;
+}
+.text-introduce>ul>li {
+    font-family: 'Noto Sans', 'Noto Sans KR';
+    font-size: 1.7em;
+    line-height: 1.5em !important;
+    color: #3c484e;
+}
+.text-introduce h5 {
+    display: block;
+    margin: .5em 0;
+    padding: 1em 0 1.5em;
+    border: 0;
+    color: #3eb0ef;
+    font-family: Georgia,serif;
+    font-size: 2rem;
+    line-height: 1.35em;
+    text-align: center;
+}
+.extra-text-introduce p, .extra-text-introduce>ul>li{
+    font-size: 1.5em !important;
+}
