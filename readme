@@ -4,4 +4,6 @@ About mywebsite:
 - Deploy on heroku is required add file composer.json and index.php
 You can go to: https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b to set up
 - git remote -v
-- My website: https://thiehoablog.herokuapp.com
+- use "git push heroku master" to push on heroku
+- user "git push origin master" to push on github
+- My website: https://thienhoablog.herokuapp.com

@@ -31,3 +31,17 @@
 .extra-text-introduce p, .extra-text-introduce>ul>li{
     font-size: 1.5em !important;
 }
+
+@media screen and (min-width: 0px) and (max-width: 768px) { 
+    .text-introduce {
+        line-height: 1.6em;
+        padding: 40px 5px;
+        font-size: 11px;
+    }
+    .text-introduce h5 {
+        padding-bottom: 0.25em !important;
+    }
+    .content-info.py-5 {
+        padding-bottom: 0 !important;
+    }
+}
